@@ -1,0 +1,5 @@
+site_name: Cloud Framework
+nav:
+  - Home: index.md
+  - About: about.md
+theme: readthedocs
